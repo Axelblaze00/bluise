@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
+  "title": " Learn Data Visualization",
+  "titleTemplate": "Data Science Course",
+  "welcomeText": "<!--StartFragment-->\n\n# Data Science Online Course - Learn Data Visualization\n\nThis online *[Data Science course](https://brainalyst.in/data-science-course-placement-guarantee/)* helps you become a Data Scientist by providing exposure to Machine Learning, Python, Tableau, and Capstone Projects.\n\n<!--StartFragment-->\n\n<!--StartFragment-->\n\nData visualisation is the process of presenting large amounts of information in ways that are simple to understand and interpret, as well as identifying patterns, trends, and correlations.\n\nData visualisation is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. Data visualisation software can help expose and recognise patterns, trends, and correlations that may go undetected in text-based data.\n\n## Here are some good or best data visualization courses online:-\n\nData Visualization with Tableau Specialization – Coursera.\n\n[Data Visualization with Python](https://brainalyst.in/data-visualization-courses-online/) – Brainalyst\n\nData Visualization – Udacity.\n\nInformation Visualization Specialization -Coursera.\n\nUnderstanding and Visualizing Data with Python – Coursera.\n\n \n\n[Brainalyst](https://brainalyst.in/) provides the [best data visualisation Course online](https://brainalyst.in/advanced-data-visualization-course/). They offer their students the best quality education. \n\n\n\n<!--EndFragment-->\n\n\n\n<!--EndFragment-->\n\n<!--EndFragment-->",
+  "logo": "/images/uploads/career-transition.png",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "loadingColor": "RED",
+  "seoDescription": "Learn Python, Hadoop without any prior coding experience. Work on 60+ industry projects. 12-month Online Executive PG Programme in Data Science",
   "seoMetaImage": ""
 }
